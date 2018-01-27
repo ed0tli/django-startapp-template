@@ -1,0 +1,83 @@
+Django>=1.11,<2.0
+Fabric
+django-mptt
+django-taggit
+Django-autoslug
+django-cleanup
+rainbow_logging_handler
+dealer
+#django-model-utils
+
+#-------------#
+# Restful API #
+#-------------#
+djangorestframework
+# --> JSON Web Token Authentication support for Django REST Framework
+djangorestframework-jwt
+django-rest-swagger
+django-filter
+# djangorestframework-filters
+# --> REST implementation of Django authentication system.
+djoser
+django-cors-headers
+
+#-----------------#
+# Admin Interface #
+# ----------------#
+# django-pagedown
+
+#---------------------#
+# For user management #
+#---------------------#
+django-allauth
+
+#---------------#
+# i18n and l10n #
+#---------------#
+# django-rosetta
+# django-modeltranslation
+
+#------------#
+# Image File #
+#------------#
+pillow
+django-imagekit
+
+#-------------#
+# Office File #
+#-------------#
+openpyxl
+#xlutils
+# --> Google Drive Access
+# PyDrive
+
+#--------#
+# E-Mail #
+#--------#
+#boto
+#django-ses
+#django-extensions
+# --> Anymail: Django email backends for Mailgun, Postmark, SendGrid, SparkPost and more
+#django-anymail
+
+#-----------------#
+# Task Dispatcher #
+#-----------------#
+# celery
+# django-celery
+
+#-------#
+# cache #
+#-------#
+# python-memcached
+
+#--------#
+# Search #
+#--------#
+pysolr
+django-haystack
+
+#-----------#
+# Extractor #
+#-----------#
+beautifulsoup4
